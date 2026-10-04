@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack - Smart Calorie & Diet Coach",
+  "description": "Log food effortlessly with AI meal analysis, track calories and macros, and get personalized dietary advice to lose, maintain, or gain weight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
